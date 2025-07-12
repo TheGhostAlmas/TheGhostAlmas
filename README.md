@@ -10,5 +10,8 @@ de soluciones tecnológicas seguras.
 * Base de Datos:  MySql, Oracle SQL, SQL Server, SQLite (diseño, administración y consultas)
 * Ciberseguridad:  Análisis de amenazas, pentesting, protección de datos, auditorias de ciberseguridad.
 
+## Proyectos Recientes:
+- TicketSys: https://github.com/TheGhostAlmas/TicketSys
+
 ## Puedes Encontrarme en:
 - [Linkedin] (https://www.linkedin.com/in/ricardo-patricio-alcantar-farias/)
